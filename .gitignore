@@ -1,0 +1,25 @@
+# Keil MDK build output and local session data
+Objects/
+Listings/
+DebugConfig/
+
+*.uvguix.*
+*.uvoptx
+*.axf
+*.hex
+*.map
+*.lst
+*.htm
+*.build_log.htm
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
